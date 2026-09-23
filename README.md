@@ -40,7 +40,6 @@
   - [Audio Analysis & Processing](#audio-analysis--processing)
   - [Quality Analysis & Metrics](#quality-analysis--metrics)
   - [Video Analytics & Benchmarking](#video-analytics--benchmarking)
-  - 
 - [Protocols & Transport](#protocols--transport)
   - [Adaptive Streaming](#adaptive-streaming)
   - [Low-Latency Streaming Tools](#low-latency-streaming-tools)
@@ -1000,7 +999,7 @@
 - [Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video) - CVPR 2024 temporal-consistent diffusion model for real-world video super-resolution.
 - [Video TensorFlow](https://docs.google.com/presentation/d/1NAqYWmFOwxJEacZCuPLdX0mRNRFPFgeRbsm22EaxerU/edit?usp=sharing) - Using TensorFlow For Audience Measurement Kevin Staunton-Lambert Solutions Architect R&D @kevleyski www.switch.tv.
 - [Videocr](https://github.com/apm1467/videocr) - Extract hardcoded subtitles from videos using machine learning.
-- [Video to Transcript](https://videotext.io/video-to-transcripthttps://videotext.io/video-to-transcript) - Free AI video transcription with 98.5% word accuracy using Whisper large-v3; upload MP4/MOV/WebM/MKV and get a transcript, SRT/VTT, AI summary, and chapters in one pass.
+- [Video to Transcript](https://videotext.io/video-to-transcript) - Free AI video transcription with 98.5% word accuracy using Whisper large-v3; upload MP4/MOV/WebM/MKV and get a transcript, SRT/VTT, AI summary, and chapters in one pass.
 
 ### Color Grading & Correction Tools
 
